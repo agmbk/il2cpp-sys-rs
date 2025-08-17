@@ -1,0 +1,14 @@
+[package]
+name = "il2cpp-sys-rs"
+version = "0.1.0"
+edition = "2024"
+authors = ["Agmbk"]
+description = "Rust bindings for Unity's Il2Cpp runtime"
+repository = "https://github.com/agmbk/il2cpp-sys-rs"
+readme = "README.md"
+license = "MIT"
+keywords = ["unity", "il2cpp", "game-development"]
+categories = ["game-development", "external-ffi-bindings"]
+
+[build-dependencies]
+bindgen = "0.71.1"
