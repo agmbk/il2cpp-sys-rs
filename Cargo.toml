@@ -2,7 +2,7 @@
 name = "il2cpp-sys-rs"
 version = "0.1.0"
 edition = "2024"
-authors = ["Agmbk"]
+authors = ["AGMBK"]
 description = "Rust bindings for Unity's Il2Cpp runtime"
 repository = "https://github.com/agmbk/il2cpp-sys-rs"
 readme = "README.md"
