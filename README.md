@@ -6,6 +6,11 @@
 
 Rust bindings for Unity's Il2Cpp runtime.
 
+Il2cpp is the latest Unity's scripting backend.
+
+[Il2cpp source code](https://unity.bepinex.dev/libil2cpp-source)
+[Il2cpp source code archive](https://github.com/js6pak/libil2cpp-archive)
+
 ## Usage
 
 Add to your `Cargo.toml` dependencies:
